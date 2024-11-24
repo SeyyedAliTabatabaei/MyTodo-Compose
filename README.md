@@ -20,6 +20,10 @@ developed by **Kotlin**.
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/alitabatabaei1381/ToDoList-Compose-MVVM-Hilt-Room/master/photo_2022-02-07%2021.59.18.jpeg" alt="ToDo_screen_shot" width="200"/>  
-<img src="https://raw.githubusercontent.com/alitabatabaei1381/ToDoList-Compose-MVVM-Hilt-Room/master/photo_2022-02-07%2021.59.21.jpeg" alt="ToDo_screen_shot" width="200"/> 
+<p align="center">
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot1.jpeg" alt="ToDo_screen_shot" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot2.jpeg" alt="ToDo_screen_shot" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot3.jpeg" alt="ToDo_screen_shot" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot4.jpeg" alt="ToDo_screen_shot" width="200"/>
+            </p>
 
