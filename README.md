@@ -21,9 +21,9 @@ developed by **Kotlin**.
 ## Screenshots
 
 <p align="center">
-            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot1.jpeg" alt="ToDo_screen_shot" width="200"/>
-            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot2.jpeg" alt="ToDo_screen_shot" width="200"/>
-            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot3.jpeg" alt="ToDo_screen_shot" width="200"/>
-            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/shot4.jpeg" alt="ToDo_screen_shot" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/blob/main/shots/shot1.jpeg?raw=true" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/blob/main/shots/shot2.jpeg?raw=true" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/blob/main/shots/shot3.jpeg?raw=true" width="200"/>
+            <img src="https://github.com/SeyyedAliTabatabaei/MyTodo-Compose/blob/main/shots/shot4.jpeg?raw=true" width="200"/>
             </p>
 
