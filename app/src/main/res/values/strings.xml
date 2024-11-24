@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Todo</string>
+
+    <string name="hello">Hello 🖐️</string>
+    <string name="have_good_day">Have a good day</string>
+    <string name="add_task">Add Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="search">Search</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+    <string name="title_between_3_to_40_char">The title must be between 3 to 40 characters.</string>
+    <string name="task_list_empty">No Tasks Found</string>
+    <string name="delete">Delete</string>
+</resources>
